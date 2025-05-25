@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Hello
 ---
+
+# Have A Good Day
 
